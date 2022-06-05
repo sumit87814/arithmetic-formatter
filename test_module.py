@@ -39,5 +39,5 @@ class UnitTests(unittest.TestCase):
         self.assertEqual(actual, expected, 'Expected solutions to be correctly displayed in output when calling "arithmetic_arranger()" with arithmetic problems and a second argument of `True`.')
 
 
-if __name__ == "__main__":
+ if __name__ == "__main__":
     unittest.main()
